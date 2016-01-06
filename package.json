@@ -1,0 +1,19 @@
+{
+  "name": "autocomplete-swift",
+  "version": "0.0.1",
+  "description": "Autocomplete provider for swift",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steelbrain/autocomplete-swift.git"
+  },
+  "author": "steelbrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steelbrain/autocomplete-swift/issues"
+  },
+  "homepage": "https://github.com/steelbrain/autocomplete-swift#readme"
+}
