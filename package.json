@@ -16,10 +16,11 @@
     "url": "https://github.com/steelbrain/autocomplete-swift/issues"
   },
   "homepage": "https://github.com/steelbrain/autocomplete-swift#readme",
-  "consumedServices": {
-   "autocomplete.provider": {
-     "versions": {
-       "2.0.0": "provideAC"
-     }
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "provideAC"
+      }
+    }
   }
 }
