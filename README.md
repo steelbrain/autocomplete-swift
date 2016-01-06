@@ -1,6 +1,8 @@
 AutoComplete-Swift
 ==================
 
+Autocomplete package for Swift using [SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon). Made possible by the testing done by [@memorion](https://github.com/memorion).
 
-WIP
+## License
 
+MIT License © steelbrain
