@@ -22,5 +22,9 @@
         "2.0.0": "provideAC"
       }
     }
+  },
+  "dependencies": {
+    "consistent-path": "^1.0.1",
+    "request": "^2.67.0"
   }
 }
