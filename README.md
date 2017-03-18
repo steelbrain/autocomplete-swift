@@ -1,6 +1,8 @@
 AutoComplete-Swift
 ==================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/autocomplete-swift.svg)](https://greenkeeper.io/)
+
 Autocomplete package for Swift using [`SourceKittenDaemon`][]. Made possible by the testing done by [@memorion](https://github.com/memorion).
 
 ## Installation
